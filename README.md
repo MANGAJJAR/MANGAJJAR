@@ -1,11 +1,11 @@
 <div align="center">
 
 # ⚡ Man Gajjar
-### 🤖 Generative AI Engineer · LLM Architect · RAG Specialist
+### 🤖 AI Engineer
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=680&lines=Building+Production+Generative+AI+Systems+%E2%9A%A1;Retrieval-Augmented+Generation+(RAG)+%F0%9F%A7%A9;Autonomous+Multi-Agent+Workflows+%F0%9F%A4%96;Fine-Tuning+LLMs+%7C+LoRA+%7C+QLoRA+%7C+PEFT+%F0%9F%94%A5;Transforming+Research+into+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=680&lines=Building+Production+AI+Systems+%E2%9A%A1;Retrieval-Augmented+Generation+(RAG)+%F0%9F%A7%A9;Autonomous+Multi-Agent+Workflows+%F0%9F%A4%96;Fine-Tuning+LLMs+%7C+LoRA+%7C+QLoRA+%7C+PEFT+%F0%9F%94%A5;Transforming+Research+into+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### 🧠 Generative AI & Deep Learning
+### 🧠 AI & Deep Learning
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logo=llama&logoColor=white" />
@@ -48,7 +48,7 @@
 
 ```ascii
 ┌────────────────────────────────────────────────────────────────────────┐
-│                      CORE GENERATIVE AI EXPERTISE                      │
+│                          CORE AI EXPERTISE                             │
 └────────────────────────────────────────────────────────────────────────┘
   ├── 🔍 Advanced RAG (Hybrid Search, Re-ranking, Context Compression)
   ├── 🤖 Autonomous Multi-Agent Workflows & Function Calling
@@ -76,7 +76,7 @@
   </a>
 </p>
 
-🤝 Open to **Generative AI Engineer**, **LLM Specialist**, and **AI System Design** roles & collaborations.
+🤝 Open to **AI Engineer**, **LLM Specialist**, and **AI System Design** roles & collaborations.
 
 </div>
 

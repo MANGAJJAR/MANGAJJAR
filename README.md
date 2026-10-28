@@ -9,21 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://man-resume.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/MANGAJJAR" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-MANGAJJAR-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:mangajjar44@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mangajjar44%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/MANGAJJAR?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-8_Projects-blueviolet?style=for-the-badge&logo=git" alt="Repos" />
-  </a>
-</p>
-
 </div>
 
 ---
@@ -132,27 +117,6 @@ print(agent.execute_pipeline("Deploy production LLM workflow"))
 | 🏆 **IBM Hackathon Solution** | Advanced AI/ML engineering submission utilizing automated Python pipelines and predictive modeling. | [**Inspect Repository ↗**](https://github.com/MANGAJJAR/IBM-Hackathon) |
 | 🍽️ **Noboru Smart Dine** | Full-stack production restaurant management and order system built with TypeScript & modern architecture. | [**Inspect Repository ↗**](https://github.com/MANGAJJAR/noboru-smart-dine) |
 | 🎵 **MusicPlayer Django** | Python/Django web application handling media streaming, sessions, and stateful interaction. | [**Inspect Repository ↗**](https://github.com/MANGAJJAR/MusicPlayer-Django) |
-
-</div>
-
----
-
-## 📈 Activity & Performance Metrics
-
-<div align="center">
-
-<a href="https://github.com/MANGAJJAR">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANGAJJAR&show_icons=true&theme=radical&hide_border=false&border_color=00F0FF&border_radius=10&title_color=00F0FF&icon_color=00F0FF" height="165" alt="Stats" />
-</a>
-<a href="https://github.com/MANGAJJAR">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANGAJJAR&layout=compact&theme=radical&hide_border=false&border_color=00F0FF&border_radius=10&title_color=00F0FF" height="165" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/MANGAJJAR">
-  <img src="https://streak-stats.demolab.com?user=MANGAJJAR&theme=radical&hide_border=false&border_radius=10&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" alt="GitHub Streak" />
-</a>
 
 </div>
 

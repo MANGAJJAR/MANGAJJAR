@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Man Gajjar
-### 🤖 Generative AI Engineer · LLM System Architect · RAG Specialist
+### 🤖 Generative AI Engineer · LLM Architect · RAG Specialist
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -13,125 +13,89 @@
 
 ---
 
-## 👨‍💻 Executive Summary
-
-```python
-class GenerativeAIEngineer:
-    """
-    Passionate AI Engineer bridging the gap between cutting-edge LLM research
-    and high-performance enterprise applications.
-    """
-    def __init__(self):
-        self.name           = "Man Gajjar"
-        self.title          = "Generative AI Engineer"
-        self.primary_focus  = ["Production RAG Pipelines", "Autonomous AI Agents", "LLM Fine-Tuning"]
-        self.deep_learning  = ["Transformers", "PyTorch", "Hugging Face", "LoRA / QLoRA"]
-        self.vector_infra   = ["Pinecone", "ChromaDB", "FAISS", "Qdrant", "Weaviate"]
-        self.portfolio      = "https://man-resume.vercel.app/"
-        self.status         = "Available for high-impact AI Engineering roles & consulting"
-
-    def execute_pipeline(self, prompt: str) -> str:
-        return f"Synthesizing enterprise intelligence from: '{prompt}' 🚀"
-
-agent = GenerativeAIEngineer()
-print(agent.execute_pipeline("Deploy production LLM workflow"))
-```
-
----
-
-## 🛠️ Generative AI & Engineering Arsenal
+## 🛠️ 1. Skills & Tech Stack
 
 <div align="center">
 
-### 🧠 LLMs, Agents & Frameworks
+### 🧠 Generative AI & Deep Learning
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logo=llama&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/vLLM-00D4AA?style=for-the-badge&logo=speedtest&logoColor=black" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-### 🗄️ Vector Databases & Information Retrieval
+### 🗄️ Vector Databases & Retrieval
 <p>
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0468FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
-### 💻 Backend, Cloud & Production Infrastructure
+### 💻 Backend & Core Engineering
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 </div>
 
----
-
-## 🧩 Architectural Specializations
-
 ```ascii
 ┌────────────────────────────────────────────────────────────────────────┐
-│                      GENERATIVE AI SYSTEM STACK                        │
+│                      CORE GENERATIVE AI EXPERTISE                      │
 └────────────────────────────────────────────────────────────────────────┘
-     │
-     ├── 🔍 ADVANCED RAG PIPELINES
-     │    ├── Hybrid Search (Dense Vector + BM25 Sparse Lexical)
-     │    ├── Cross-Encoder Re-Ranking & Contextual Compression
-     │    └── Multi-Query Generation & Self-Corrective Retrieval
-     │
-     ├── 🤖 AUTONOMOUS AGENTIC ARCHITECTURES
-     │    ├── ReAct / Plan-and-Solve Loops & Dynamic Tool Calling
-     │    ├── Multi-Agent Orchestration & Supervisor-Worker Patterns
-     │    └── Stateful Memory Buffers & Session Persistence
-     │
-     ├── 🎯 LLM ADAPTATION & FINE-TUNING
-     │    ├── LoRA, QLoRA, and Parameter-Efficient Fine-Tuning (PEFT)
-     │    ├── Instruction Tuning & Domain-Specific Dataset Curation
-     │    └── Guardrails, Output Validation (Pydantic / Instructor)
-     │
-     └── ⚡ PRODUCTION SERVING & EFFICIENCY
-          ├── Streaming Responses & Async Token Handling
-          ├── Quantization (AWQ, GPTQ, GGUF) for High Throughput
-          └── Scalable REST APIs using FastAPI & Async Python
+  ├── 🔍 Advanced RAG (Hybrid Search, Re-ranking, Context Compression)
+  ├── 🤖 Autonomous Multi-Agent Workflows & Function Calling
+  ├── 🎯 LLM Adaptation (LoRA, QLoRA, Fine-Tuning, Guardrails)
+  └── ⚡ Model Optimization & High-Throughput Inference (vLLM)
 ```
 
 ---
 
-## 🚀 Key Repositories & Real-World Projects
+## 📬 2. Get In Touch
 
 <div align="center">
 
-| Project | Highlights | Direct Link |
-|:---|:---|:---:|
-| 🧩 **RAG Pipeline Engine** | Production-ready Retrieval-Augmented Generation utilizing semantic vector embeddings, custom document chunking, and LLM context synthesis. | [**Inspect Repository ↗**](https://github.com/MANGAJJAR/RAG) |
-| 🌐 **Interactive Portfolio & Resume** | Full-stack interactive developer showcase with modern UI, built with Next.js & TypeScript. | [**View Live App ↗**](https://man-resume.vercel.app/) |
-| 🏆 **IBM Hackathon Solution** | Advanced AI/ML engineering submission utilizing automated Python pipelines and predictive modeling. | [**Inspect Repository ↗**](https://github.com/MANGAJJAR/IBM-Hackathon) |
-| 🍽️ **Noboru Smart Dine** | Full-stack production restaurant management and order system built with TypeScript & modern architecture. | [**Inspect Repository ↗**](https://github.com/MANGAJJAR/noboru-smart-dine) |
-| 🎵 **MusicPlayer Django** | Python/Django web application handling media streaming, sessions, and stateful interaction. | [**Inspect Repository ↗**](https://github.com/MANGAJJAR/MusicPlayer-Django) |
+<p>
+  <a href="https://man-resume.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:mangajjar44@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MANGAJJAR" target="_blank">
+    <img src="https://img.shields.io/badge/🐙_GitHub_Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+🤝 Open to **Generative AI Engineer**, **LLM Specialist**, and **AI System Design** roles & collaborations.
 
 </div>
 
 ---
 
-## 💬 Get in Touch
+## 🚀 3. Projects
 
 <div align="center">
 
-Whether you're looking to architect an **Enterprise RAG System**, deploy **Autonomous AI Agents**, or discuss **Generative AI Engineering**:
-
-📬 **[mangajjar44@gmail.com](mailto:mangajjar44@gmail.com)** &nbsp;|&nbsp; 🌐 **[man-resume.vercel.app](https://man-resume.vercel.app/)** &nbsp;|&nbsp; 🐙 **[@MANGAJJAR](https://github.com/MANGAJJAR)**
+| Project | Highlights | Tech Stack | Link |
+|:---|:---|:---|:---:|
+| 🧩 **RAG Pipeline Engine** | Production-ready Retrieval-Augmented Generation utilizing semantic vector embeddings, custom document chunking, and LLM context synthesis. | Python · Vector DB · LLMs | [**View Code ↗**](https://github.com/MANGAJJAR/RAG) |
+| 🌐 **Interactive Portfolio & Resume** | Full-stack interactive developer showcase with modern UI and smooth interactions. | Next.js · TypeScript · Vercel | [**Live App ↗**](https://man-resume.vercel.app/) |
+| 🏆 **IBM Hackathon Solution** | Advanced AI/ML engineering submission utilizing automated Python pipelines and predictive modeling. | Python · ML · Jupyter | [**View Code ↗**](https://github.com/MANGAJJAR/IBM-Hackathon) |
+| 🍽️ **Noboru Smart Dine** | Full-stack production restaurant management and order system. | TypeScript · Modern Web | [**View Code ↗**](https://github.com/MANGAJJAR/noboru-smart-dine) |
+| 🎵 **MusicPlayer Django** | Python/Django web application handling media streaming and stateful interaction. | Python · Django · SQLite | [**View Code ↗**](https://github.com/MANGAJJAR/MusicPlayer-Django) |
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=90&section=footer" width="100%"/>
 
 </div>

@@ -1,101 +1,36 @@
-<div align="center">
+# Man Gajjar
 
-# ⚡ Man Gajjar
-### 🤖 AI Engineer
+I build applied machine learning systems and LLM applications, and I am looking for entry-level AI/ML Engineer, Data Science, or LLM application developer roles.
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=680&lines=Building+Production+AI+Systems+%E2%9A%A1;Retrieval-Augmented+Generation+(RAG)+%F0%9F%A7%A9;Autonomous+Multi-Agent+Workflows+%F0%9F%A4%96;Fine-Tuning+LLMs+%7C+LoRA+%7C+QLoRA+%7C+PEFT+%F0%9F%94%A5;Transforming+Research+into+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+## About
 
-</div>
+I am a Computer Science undergraduate based in Ahmedabad, India, currently pursuing my B.Tech at Lok Jagruti University (2024–2027) after completing a Diploma in Computer Engineering at Government Polytechnic Ahmedabad (2021–2024). My recent work centers on retrieval-augmented generation pipelines, deep learning for image classification, and machine learning models for tabular fraud detection. I focus on practical implementations: handling data preprocessing, managing vector indices, and serving models through straightforward web interfaces and APIs.
 
----
+## Selected Projects
 
-## 🛠️ 1. Skills & Tech Stack
+| Project | What it does | Stack | Link |
+| --- | --- | --- | --- |
+| Domain Knowledge RAG Assistant | Retrieves grounded answers with citations across 8,000+ vector embeddings from PDF, MD, and CSV sources with confidence scoring. | LangChain, FAISS, FastAPI, SentenceTransformers, Gemini/Groq APIs | [REPO LINK] |
+| Image Classification System | Classifies images using a CNN trained with data augmentation, paired with a real-time prediction interface with confidence scores. | TensorFlow, Python, NumPy | [REPO LINK] |
+| E-Commerce Analytics and Fraud Detection Engine | Identifies fraudulent transactions on imbalanced datasets and surfaces business metrics through an interactive dashboard. | XGBoost, Streamlit, Power BI, Pandas | [REPO LINK] |
 
-<div align="center">
+## Tech Stack
 
-### 🧠 AI & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logo=llama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
+| Category | Technologies |
+| --- | --- |
+| Languages | Python, Java |
+| ML/AI | TensorFlow, XGBoost, LangChain, FAISS, SentenceTransformers, prompt engineering |
+| Backend and Apps | FastAPI, Streamlit |
+| Data and Tools | NumPy, Pandas, Matplotlib, Power BI, Jupyter, web scraping |
 
-### 🗄️ Vector Databases & Retrieval
-<p>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0468FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logoColor=white" />
-</p>
+## Experience and Education
 
-### 💻 Backend & Core Engineering
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+- **B.Tech in Computer Science Engineering**, Lok Jagruti University (2024–2027)
+- **Diploma in Computer Engineering**, Government Polytechnic Ahmedabad (2021–2024)
+- **Android Application Development Intern**, Snapfix (Jul 2023 – Aug 2023)
 
-</div>
+## Contact
 
-```ascii
-┌────────────────────────────────────────────────────────────────────────┐
-│                          CORE AI EXPERTISE                             │
-└────────────────────────────────────────────────────────────────────────┘
-  ├── 🔍 Advanced RAG (Hybrid Search, Re-ranking, Context Compression)
-  ├── 🤖 Autonomous Multi-Agent Workflows & Function Calling
-  ├── 🎯 LLM Adaptation (LoRA, QLoRA, Fine-Tuning, Guardrails)
-  └── ⚡ Model Optimization & High-Throughput Inference (vLLM)
-```
-
----
-
-## 📬 2. Get In Touch
-
-<div align="center">
-
-<p>
-  <a href="https://man-resume.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:mangajjar44@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/MANGAJJAR" target="_blank">
-    <img src="https://img.shields.io/badge/🐙_GitHub_Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
-
-🤝 Open to **AI Engineer**, **LLM Specialist**, and **AI System Design** roles & collaborations.
-
-</div>
-
----
-
-## 🚀 3. Projects
-
-<div align="center">
-
-| Project | Highlights | Tech Stack | Link |
-|:---|:---|:---|:---:|
-| 🧩 **RAG Pipeline Engine** | Production-ready Retrieval-Augmented Generation utilizing semantic vector embeddings, custom document chunking, and LLM context synthesis. | Python · Vector DB · LLMs | [**View Code ↗**](https://github.com/MANGAJJAR/RAG) |
-| 🌐 **Interactive Portfolio & Resume** | Full-stack interactive developer showcase with modern UI and smooth interactions. | Next.js · TypeScript · Vercel | [**Live App ↗**](https://man-resume.vercel.app/) |
-| 🏆 **IBM Hackathon Solution** | Advanced AI/ML engineering submission utilizing automated Python pipelines and predictive modeling. | Python · ML · Jupyter | [**View Code ↗**](https://github.com/MANGAJJAR/IBM-Hackathon) |
-| 🍽️ **Noboru Smart Dine** | Full-stack production restaurant management and order system. | TypeScript · Modern Web | [**View Code ↗**](https://github.com/MANGAJJAR/noboru-smart-dine) |
-| 🎵 **MusicPlayer Django** | Python/Django web application handling media streaming and stateful interaction. | Python · Django · SQLite | [**View Code ↗**](https://github.com/MANGAJJAR/MusicPlayer-Django) |
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=90&section=footer" width="100%"/>
-
-</div>
+- Portfolio: https://man-resume.vercel.app/
+- Email: mangajjar44@gmail.com
+- LinkedIn: https://www.linkedin.com/in/man-gajjar28/

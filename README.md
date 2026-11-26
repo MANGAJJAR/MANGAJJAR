@@ -12,7 +12,7 @@ I am a Computer Science undergraduate based in Ahmedabad, India, currently pursu
 | --- | --- | --- | --- |
 | Domain Knowledge RAG Assistant | Retrieves grounded answers with citations across 8,000+ vector embeddings from PDF, MD, and CSV sources with confidence scoring. | LangChain, FAISS, FastAPI, SentenceTransformers, Gemini/Groq APIs | [Repository](https://github.com/MANGAJJAR/RAG) |
 | Real-Time Automatic License Plate Recognition (ALPR) | Processes live camera feeds using fine-tuned YOLOv8, OpenCV preprocessing (bilateral filtering, Otsu thresholding), and EasyOCR with spatial text assembly. | Python, YOLOv8, EasyOCR, OpenCV, PyTorch, Pandas | [Repository](https://github.com/MANGAJJAR/Real-Time-Automatic-License-Plate-Recognition-ALPR-) |
-| Image Classification System | Classifies images using a CNN trained with data augmentation, paired with a real-time prediction interface with confidence scores. | TensorFlow, Python, NumPy | [REPO LINK] |
+| Image Classification System | Classifies images using a CNN trained with data augmentation, paired with a real-time prediction interface with confidence scores. | TensorFlow, Python, NumPy | [Repository](https://github.com/MANGAJJAR/Image-Classification) |
 
 ## Tech Stack
 
